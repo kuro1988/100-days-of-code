@@ -24,3 +24,11 @@
 
 **Link to projects:** 
 [Build A Product Landing Page](https://codepen.io/kuro1988/full/JvmWda), [Build A Random Quote Machine](https://codepen.io/kuro1988/full/zeWjQV)
+
+### Day 4: February 12, 2019 
+
+**Today's Progress**: I continued with MobX
+
+**Thoughts:** I completed the intro course by MobX creator, but I am not particularly satisfied. I spent most of the time configuring my environment, since the one provided was not working properly. I understood the concepts of the most important decorators but lost track on advanced topics. Now I moved to another course on MobX, which also features Typescript. 
+
+**Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
