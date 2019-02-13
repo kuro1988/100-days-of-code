@@ -32,3 +32,12 @@
 **Thoughts:** I completed the intro course by MobX creator, but I am not particularly satisfied. I spent most of the time configuring my environment, since the one provided was not working properly. I understood the concepts of the most important decorators but lost track on advanced topics. Now I moved to another course on MobX, which also features Typescript. 
 
 **Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
+
+### Day 5: February 13, 2019 
+
+**Today's Progress**: I continued with MobX
+
+**Thoughts:** I completed the second part of the course with MobX and TS.
+
+**Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
+
