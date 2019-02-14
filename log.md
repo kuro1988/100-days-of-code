@@ -33,11 +33,19 @@
 
 **Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
 
-### Day 5: February 13, 2019 
+### Day 6: February 14, 2019 
 
 **Today's Progress**: I continued with MobX
 
 **Thoughts:** I completed the second part of the course with MobX and TS.
 
 **Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
+
+### Day 5: February 13, 2019 
+
+**Today's Progress**: I worked with RESTful APIs with Node
+
+**Thoughts:** I completed a course about building RESTful APIs with Node. It showed some useful tips to organize the project as well as the folder tree.
+
+**Link to resource:** [Building RESTful Web APIs with Node.js and Express](https://www.linkedin.com/learning/building-restful-web-apis-with-node-js-and-express)
 
