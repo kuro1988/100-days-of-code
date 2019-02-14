@@ -33,7 +33,7 @@
 
 **Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
 
-### Day 6: February 14, 2019 
+### Day 5: February 13, 2019 
 
 **Today's Progress**: I continued with MobX
 
@@ -41,7 +41,7 @@
 
 **Link to resource:** [Develop React Applications with Mobx and TypeScript](https://egghead.io/courses/develop-react-applications-with-mobx-and-typescriptx)
 
-### Day 5: February 13, 2019 
+### Day 6: February 14, 2019 
 
 **Today's Progress**: I worked with RESTful APIs with Node
 
