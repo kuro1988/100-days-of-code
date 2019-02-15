@@ -49,3 +49,12 @@
 
 **Link to resource:** [Building RESTful Web APIs with Node.js and Express](https://www.linkedin.com/learning/building-restful-web-apis-with-node-js-and-express)
 
+### Day 7: February 15, 2019 
+
+**Today's Progress**: Again on MobX!
+
+**Thoughts:** Maybe I am spending too much time on this topic but I'd really like to understand this tool.
+
+**Link to resource:** [MobX State Tree React pure reactivity served](https://www.youtube.com/watch?v=HS9revHrNRI&t=&fbclid=IwAR3WFm0MBhvWC2YkXaLgJRpiDhQKfNBLUBJv9pMBZxkn9o9sc79y9zzxJAU)
+
+
