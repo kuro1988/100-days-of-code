@@ -57,4 +57,13 @@
 
 **Link to resource:** [MobX State Tree React pure reactivity served](https://www.youtube.com/watch?v=HS9revHrNRI&t=&fbclid=IwAR3WFm0MBhvWC2YkXaLgJRpiDhQKfNBLUBJv9pMBZxkn9o9sc79y9zzxJAU)
 
+### Day 8: February 16, 2019 
+
+**Today's Progress**: Quick refresh on TS with React
+
+**Thoughts:** I feel I am comfortable enough to stard a brand new project in TS.
+
+**Link to resource:** [React: Using TypeScript](https://www.linkedin.com/learning/react-using-typescript)
+
+
 
