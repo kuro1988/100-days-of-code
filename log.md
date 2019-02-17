@@ -65,5 +65,9 @@
 
 **Link to resource:** [React: Using TypeScript](https://www.linkedin.com/learning/react-using-typescript)
 
+### Day 9: February 16, 2019 
 
+**Today's Progress**: Quick refresh on TS with React
+
+**Thoughts:** I feel I am comfortable enough to stard a brand new project in TS.
 
