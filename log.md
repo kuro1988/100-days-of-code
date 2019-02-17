@@ -65,9 +65,9 @@
 
 **Link to resource:** [React: Using TypeScript](https://www.linkedin.com/learning/react-using-typescript)
 
-### Day 9: February 16, 2019 
+### Day 9: February 17, 2019 
 
-**Today's Progress**: Quick refresh on TS with React
+**Today's Progress**: Let's try again with Redux 😹
 
-**Thoughts:** I feel I am comfortable enough to stard a brand new project in TS.
+**Thoughts:** I found a couple of very useful tutorials on Redux. This may seem as a waste of time but my goal is to improve my skills with FP and Redux goes in this way.
 
