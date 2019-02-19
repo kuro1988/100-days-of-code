@@ -71,3 +71,9 @@
 
 **Thoughts:** I found a couple of very useful tutorials on Redux. This may seem as a waste of time but my goal is to improve my skills with FP and Redux goes in this way.
 
+### Day 10: February 18, 2019 
+
+**Today's Progress**: Lazy day, but completed few more lectures on Redux.
+
+**Thoughts:** I am so slow right now, but I am slightly approaching the end of the Udemy course on React.
+
